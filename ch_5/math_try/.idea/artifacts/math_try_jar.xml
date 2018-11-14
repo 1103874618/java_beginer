@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="math_try:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/math_try_jar</output-path>
+    <root id="archive" name="math_try.jar">
+      <element id="module-output" name="math_try" />
+    </root>
+  </artifact>
+</component>
