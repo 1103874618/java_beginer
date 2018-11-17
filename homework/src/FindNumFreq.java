@@ -35,9 +35,7 @@ class NumFreqDemo {
 
   public static void main(String[] args) {
     FindNumFreq Demo = new FindNumFreq();
-
     Map num = Demo.findFreq();
-
     Demo.outPutFraq(num);
 
   }
