@@ -8,7 +8,7 @@ public class JoinTh {
 
       System.out.print(".");
       try {
-        mt1.thrd.join();
+        mt1.thrd.join();//加入join后主线程会等待直到子线程结束
         System.out.println(mt1.thrd.getName()+ "Join .");
 
         mt2.thrd.join();
