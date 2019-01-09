@@ -8,17 +8,17 @@ public class priTH {
     mt1.thrd.setPriority(Thread.NORM_PRIORITY + 2);
     mt2.thrd.setPriority(Thread.NORM_PRIORITY - 2);
 
-    mt1.thrd.start();
+    mt1.thrd.start();//记得手动start
     mt2.thrd.start();
 
     try {
-      mt1.thrd.join();
+      mt1.thrd.join();//start之后可以在join
       mt2.thrd.join();
     } catch (InterruptedException e) {
       System.out.println("main thread interruption");
     }
     System.out.println("high count to" + mt1.count);
-    System.out.println("low count to" + mt2.count);
+    System.out.println("low count to" + mt2.count);//高线程完成任务后低线程也会继续计数,但是我们已经看不到了
 
   }
 }
@@ -45,7 +45,8 @@ class Priority implements Runnable {
         currentName = thrd.getName();
         System.out.println("In " + currentName);
       }
-    } while (stop == false && count < 10000000);
+    } while (stop == false && count < 10000000);//谁先计数到10000000就停止
     stop = true;
+    System.out.println("over");
   }
 }
