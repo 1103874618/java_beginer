@@ -1,8 +1,8 @@
-public class SyncTh {
+public class newVerSyncTh {
   public static void main(String[] args){
     int a[] = {1,2,3,4,5};
-    MySyncTh tm1=new MySyncTh("child_1",a);
-    MySyncTh tm2=new MySyncTh("child_2",a);
+    NewMySyncTh tm1=new NewMySyncTh("child_1",a);
+    NewMySyncTh tm2=new NewMySyncTh("child_2",a);
 
     try {
       tm1.thrd.join();
@@ -13,10 +13,10 @@ public class SyncTh {
   }
 }
 
-class SumArray {
+class NewSumArray {
   private int sum;
 
-  synchronized int sumArray(int nums[]) {
+ int sumArray(int nums[]) {
     sum = 0;
 
     for (int i = 0; i < nums.length; i++) {
@@ -37,26 +37,28 @@ class SumArray {
     return sum;
   }
 }
-
-class MySyncTh implements Runnable{
+class NewMySyncTh implements Runnable{
   Thread thrd;
-  static SumArray sa = new SumArray();//因为他是静态的,所以可以被所有线程共享
+  static NewSumArray sa = new NewSumArray();//因为他是静态的,所以可以被所有线程共享
   int a[];
   int answer;
 
-  MySyncTh(String name, int nums[]) {
+  NewMySyncTh(String name, int nums[]) {
     thrd = new Thread(this, name);
     a = nums;
     thrd.start();
   }
-
   public void run() {
     int sum;
     System.out.println(thrd.getName() + " staring .");
 
-    answer = sa.sumArray(a);
+    synchronized (sa){//使用同步块以后,一个时段只能有一个对象调用该方法
+      answer = sa.sumArray(a);
+    }
+
     System.out.println("Sum for" + thrd.getName() + " is " + answer);
     System.out.println(thrd.getName() + " terminating ");
 
   }
 }
+
