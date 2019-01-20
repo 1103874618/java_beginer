@@ -16,7 +16,7 @@ public class NewTransport {
 
 enum NTransport {
   CAR(65), TRUCK(55), AIRPLANE(600), TRAIN(70), BOAT(22);
-
+//当枚举包含其他成员时，枚举列表必须以分号结尾
   private int speed;
 
   NTransport(int s) {//上面的每个常量都有一个NTransport构造函数
