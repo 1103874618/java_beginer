@@ -1,7 +1,6 @@
 public class Annotion {
   public static void main(String na){
     Myclass myObj = new Myclass("test");
-
     System.out.println(myObj.getMas());
   }
 }
