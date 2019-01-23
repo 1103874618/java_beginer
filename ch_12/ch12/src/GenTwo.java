@@ -1,4 +1,6 @@
 import static java.lang.System.out;
+import static myio.ioPack.printClass.*;//自封装输出方法包
+
 
 public class GenTwo {
   public static void main(String args[]) {
@@ -11,6 +13,9 @@ public class GenTwo {
 
     String str = tgObj.getOb2();
     out.println("value: "+ str);
+
+    println("dfd");
+
   }
 }
 
