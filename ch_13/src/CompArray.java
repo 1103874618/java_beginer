@@ -6,7 +6,7 @@ public class CompArray {
 
 class GenMethod {
   static <T extends Comparable<T>, V extends T> boolean
-  arraysEqual(T[] x, V[] y) {
+  arraysEqual(T[] x, V[] y) {//声明为静态是为了方便其他类独立调用
     if (x.length != y.length) return false;//先比较长度
 
     for (int i = 0;i< x.length;i++){
