@@ -12,10 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LamEx2.java">
+        <entry file="file://$PROJECT_DIR$/src/lamStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            <state relative-caret-position="285">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/src/RawType.java" />
         <option value="$PROJECT_DIR$/src/LamEx.java" />
         <option value="$PROJECT_DIR$/src/LamEx2.java" />
+        <option value="$PROJECT_DIR$/src/lamStr.java" />
       </list>
     </option>
   </component>
@@ -76,16 +77,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LamEx">
+  <component name="RunManager" selected="Application.lamStr">
     <configuration name="GenInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenInter" />
-      <module name="ch_13" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenMethod" />
       <module name="ch_13" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,13 +112,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lamStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamStr" />
+      <module name="ch_13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lamStr" />
         <item itemvalue="Application.LamEx" />
         <item itemvalue="Application.RawType" />
         <item itemvalue="Application.GenQDemo" />
         <item itemvalue="Application.GenInter" />
-        <item itemvalue="Application.GenMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -254,8 +255,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LamEx2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state relative-caret-position="171">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lamStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
