@@ -12,10 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lamStr.java">
+        <entry file="file://$PROJECT_DIR$/src/LamBlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="361">
+              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -43,6 +43,7 @@
         <option value="$PROJECT_DIR$/src/LamEx.java" />
         <option value="$PROJECT_DIR$/src/LamEx2.java" />
         <option value="$PROJECT_DIR$/src/lamStr.java" />
+        <option value="$PROJECT_DIR$/src/LamBlock.java" />
       </list>
     </option>
   </component>
@@ -77,14 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lamStr">
-    <configuration name="GenInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenInter" />
-      <module name="ch_13" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LamBlock">
     <configuration name="GenQDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenQueue.GenQDemo" />
       <module name="ch_13" />
@@ -94,6 +88,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LamBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LamBlock" />
+      <module name="ch_13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LamBlock" />
         <item itemvalue="Application.lamStr" />
         <item itemvalue="Application.LamEx" />
         <item itemvalue="Application.RawType" />
         <item itemvalue="Application.GenQDemo" />
-        <item itemvalue="Application.GenInter" />
       </list>
     </recent_temporary>
   </component>
@@ -262,8 +263,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lamStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="190">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LamBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
