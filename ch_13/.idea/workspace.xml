@@ -12,16 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RawType.java">
+        <entry file="file://$PROJECT_DIR$/src/LamEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#96#105#0" expanded="true" />
-                <element signature="e#150#158#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1060#1061#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -46,6 +40,7 @@
         <option value="$PROJECT_DIR$/src/GenQueue/GenQDemo.java" />
         <option value="$PROJECT_DIR$/src/GenQueue/QueueFullException.java" />
         <option value="$PROJECT_DIR$/src/RawType.java" />
+        <option value="$PROJECT_DIR$/src/LamEx.java" />
       </list>
     </option>
   </component>
@@ -59,26 +54,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ch_13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch_13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ch_13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch_13" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../myio.jar!/" />
@@ -99,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RawType">
+  <component name="RunManager" selected="Application.LamEx">
     <configuration name="GenInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenInter" />
       <module name="ch_13" />
@@ -127,6 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LamEx" />
+      <module name="ch_13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RawType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RawType" />
       <module name="ch_13" />
@@ -136,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LamEx" />
         <item itemvalue="Application.RawType" />
         <item itemvalue="Application.GenQDemo" />
         <item itemvalue="Application.GenInter" />
@@ -249,14 +233,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RawType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="285">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
-            <element signature="e#96#105#0" expanded="true" />
-            <element signature="e#150#158#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
             <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
             <element signature="e#1060#1061#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
