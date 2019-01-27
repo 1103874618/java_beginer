@@ -12,10 +12,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/VarCapture.java">
+        <entry file="file://$PROJECT_DIR$/src/StaMethRe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="296">
+              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/GenFunInter.java" />
         <option value="$PROJECT_DIR$/src/LamArg.java" />
         <option value="$PROJECT_DIR$/src/VarCapture.java" />
+        <option value="$PROJECT_DIR$/src/StaMethRe.java" />
       </list>
     </option>
   </component>
@@ -81,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VarCapture">
+  <component name="RunManager" selected="Application.StaMethRe">
     <configuration name="GenFunInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenFunInter" />
       <module name="ch_13" />
@@ -103,6 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StaMethRe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaMethRe" />
+      <module name="ch_13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VarCapture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VarCapture" />
       <module name="ch_13" />
@@ -110,20 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lamStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamStr" />
-      <module name="ch_13" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaMethRe" />
         <item itemvalue="Application.VarCapture" />
         <item itemvalue="Application.LamArg" />
         <item itemvalue="Application.GenFunInter" />
         <item itemvalue="Application.LamBlock" />
-        <item itemvalue="Application.lamStr" />
       </list>
     </recent_temporary>
   </component>
@@ -291,8 +299,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VarCapture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="133">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StaMethRe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
