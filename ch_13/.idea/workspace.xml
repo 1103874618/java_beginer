@@ -12,15 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LamArg.java">
+        <entry file="file://$PROJECT_DIR$/src/VarCapture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,6 +46,7 @@
         <option value="$PROJECT_DIR$/src/LamBlock.java" />
         <option value="$PROJECT_DIR$/src/GenFunInter.java" />
         <option value="$PROJECT_DIR$/src/LamArg.java" />
+        <option value="$PROJECT_DIR$/src/VarCapture.java" />
       </list>
     </option>
   </component>
@@ -85,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LamArg">
+  <component name="RunManager" selected="Application.VarCapture">
     <configuration name="GenFunInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenFunInter" />
       <module name="ch_13" />
@@ -107,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LamEx" />
+    <configuration name="VarCapture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarCapture" />
       <module name="ch_13" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarCapture" />
         <item itemvalue="Application.LamArg" />
         <item itemvalue="Application.GenFunInter" />
         <item itemvalue="Application.LamBlock" />
         <item itemvalue="Application.lamStr" />
-        <item itemvalue="Application.LamEx" />
       </list>
     </recent_temporary>
   </component>
@@ -285,13 +281,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LamArg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VarCapture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
