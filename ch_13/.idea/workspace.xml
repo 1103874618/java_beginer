@@ -11,17 +11,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StaMethRe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="114">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding>
                 <element signature="e#112#113#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
                 <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ObjMethRe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/LamArg.java" />
         <option value="$PROJECT_DIR$/src/VarCapture.java" />
         <option value="$PROJECT_DIR$/src/StaMethRe.java" />
+        <option value="$PROJECT_DIR$/src/ObjMethRe.java" />
       </list>
     </option>
   </component>
@@ -89,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaMethRe">
+  <component name="RunManager" selected="Application.ObjMethRe">
     <configuration name="GenFunInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenFunInter" />
       <module name="ch_13" />
@@ -104,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LamBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LamBlock" />
+    <configuration name="ObjMethRe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjMethRe" />
       <module name="ch_13" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjMethRe" />
         <item itemvalue="Application.StaMethRe" />
         <item itemvalue="Application.VarCapture" />
         <item itemvalue="Application.LamArg" />
         <item itemvalue="Application.GenFunInter" />
-        <item itemvalue="Application.LamBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -306,14 +323,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StaMethRe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="114">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
             <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ObjMethRe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
           </folding>
         </state>
       </provider>
