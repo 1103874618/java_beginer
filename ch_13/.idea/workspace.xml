@@ -11,33 +11,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StaMethRe.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ConRe.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ObjMethRe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/VarCapture.java" />
         <option value="$PROJECT_DIR$/src/StaMethRe.java" />
         <option value="$PROJECT_DIR$/src/ObjMethRe.java" />
+        <option value="$PROJECT_DIR$/src/ConRe.java" />
       </list>
     </option>
   </component>
@@ -85,7 +68,32 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ch_13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch_13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch_13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch_13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch_13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch_13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjMethRe.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../myio.jar!/" />
@@ -106,9 +114,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjMethRe">
-    <configuration name="GenFunInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenFunInter" />
+  <component name="RunManager" selected="Application.ConRe">
+    <configuration name="ConRe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConRe" />
       <module name="ch_13" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConRe" />
         <item itemvalue="Application.ObjMethRe" />
         <item itemvalue="Application.StaMethRe" />
         <item itemvalue="Application.VarCapture" />
         <item itemvalue="Application.LamArg" />
-        <item itemvalue="Application.GenFunInter" />
       </list>
     </recent_temporary>
   </component>
@@ -336,15 +344,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ObjMethRe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state>
+          <caret lean-forward="true" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConRe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
           </folding>
         </state>
       </provider>
