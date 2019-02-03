@@ -9,7 +9,6 @@ public class ConRe {
     Myclass mc = myClassCons.func("testing");
     println("str in mc is " + mc.gerStr());
   }
-
 }
 
 class Myclass {
